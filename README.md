@@ -9,7 +9,7 @@
  1. Clean text and extract some information first including Zip Code, House number, Moo and list_other (which includes subdistrict, district, province and other info but not yet extracted)
  2. Search each element and compare with Thai governace subdistrict-level local name data.
  3. Correct misspelled tokens using Levenshtein distance. So, there would be no concern about an incorrect text.
-    Source : https://en.wikipedia.org/wiki/Levenshtein_distance#:~:text=Informally%2C%20the%20Levenshtein%20distance%20between,considered%20this%20distance%20in%201965.
+    \nSource : https://en.wikipedia.org/wiki/Levenshtein_distance#:~:text=Informally%2C%20the%20Levenshtein%20distance%20between,considered%20this%20distance%20in%201965.
     
     
  
