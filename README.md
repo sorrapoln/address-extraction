@@ -12,5 +12,4 @@
     
     Source : https://en.wikipedia.org/wiki/Levenshtein_distance#:~:text=Informally%2C%20the%20Levenshtein%20distance%20between,considered%20this%20distance%20in%201965.
     
-    
- 
+ **P.S.** : This repo just only display about the application of autocorrection. So, there would be a problem if you have the big size of subdistrict-level data due to a big O.
